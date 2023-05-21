@@ -70,7 +70,7 @@ Registrando momentos especiais de nossa vida!! 📸🥳
 
 ## 🔖 Layout
 
-Acesse o Layout base para o projeto aqui -> [🎨](<https://www.figma.com/file/953WGJODmN1BTMI3fsW72x/Stage-05---Dark-Mode-FocusTimer-(Copy)?type=design&node-id=0-8&t=0ARDZKJ5OJCXFaMq-0>).
+Acesse o Layout base para o projeto aqui -> [🎨](<https://www.figma.com/file/xb32hJLn9b95E9sJsi8jH6/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)-(Copy)?type=design&node-id=306-84&t=dstpGGmFzX0POxIz-0>).
 <br/>
 
 - OBS: É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
